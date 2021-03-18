@@ -1,0 +1,52 @@
+search:
+  title: 搜尋
+  keyword: 關鍵字
+  status:
+    success: v
+    error: x
+
+postTotal: 總計 %d 篇文章
+
+paginator:
+  pre: 上一頁
+  next: 下一頁
+
+post:
+  toc: 目錄
+  pre: 上一篇
+  next: 下一篇
+
+home:
+  title: 首頁
+
+archive:
+  title: 總檔
+  subtitle: 總檔
+
+tag:
+  title: 標籤
+  subtitle: 標籤
+
+category:
+  title: (教學)分類111
+  subtitle: (教學)分類222
+
+about:
+  title: 關於
+  subtitle: 關於
+
+page404:
+  title: 頁面不見了！
+  subtitle: 頁面不見了！
+
+links:
+  title: 連結
+  subtitle: 友情連結
+
+teach:
+  title: 教學111
+  subtitle: 教學222
+  
+mood:
+  title: 心情111
+  subtitle: 心情222
